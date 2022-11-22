@@ -1,0 +1,16 @@
+.pagination-bar {
+    display: flex;
+}
+
+.pagination-bar button{
+    width: 25px;
+    height: 25px;
+    background-color: #673ab7;
+    border-radius: 3px;
+    margin: 5px
+}
+
+.pagination-item.active button{
+    background: #fff;
+    color: #673ab7
+}
