@@ -1,7 +1,7 @@
 
-self_learn about web on second year  connect front back 
-
 Using react, nodejs, postman 
+
+self_learn about web on second year  connect front back 
 
 open cmd on demo_nodeJs folder, input command: json-server -p 3001 db.json
 
